@@ -1,4 +1,0 @@
-<pre>
-<p>add info to README :<b># add test </b>, save and exit.</p>
-<p>do another git status :</p>
-<p>another modification</p>
